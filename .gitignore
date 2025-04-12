@@ -1,0 +1,27 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# Logs
+*.log
+
+# Compiled class files
+*.class
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Spring configuration cache
+.springBeans/
+
+# Maven-specific files
+.mvn/
